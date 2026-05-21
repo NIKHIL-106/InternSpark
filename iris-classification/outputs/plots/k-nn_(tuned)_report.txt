@@ -1,0 +1,11 @@
+Classification Report for k-NN (Tuned)
+==================================================
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        10
+Iris-versicolor       0.83      1.00      0.91        10
+ Iris-virginica       1.00      0.80      0.89        10
+
+       accuracy                           0.93        30
+      macro avg       0.94      0.93      0.93        30
+   weighted avg       0.94      0.93      0.93        30

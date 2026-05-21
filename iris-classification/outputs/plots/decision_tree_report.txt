@@ -1,0 +1,11 @@
+Classification Report for Decision Tree
+==================================================
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        10
+Iris-versicolor       0.90      0.90      0.90        10
+ Iris-virginica       0.90      0.90      0.90        10
+
+       accuracy                           0.93        30
+      macro avg       0.93      0.93      0.93        30
+   weighted avg       0.93      0.93      0.93        30
